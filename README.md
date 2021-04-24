@@ -1,3 +1,3 @@
-# TP 0
+# SSL_cerezo_tomas
 
-Primer TP de la materia, haciendo un simple "Hola universo" en C
+Este es mi repositorio para Sintaxis de 2021
